@@ -1,0 +1,10 @@
+C:\Users\Administrateur\Documents\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.exe.config
+C:\Users\Administrateur\Documents\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Documents\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Form1.resources
+C:\Users\Administrateur\Documents\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Options.resources
+C:\Users\Administrateur\Documents\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Properties.Resources.resources
+C:\Users\Administrateur\Documents\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Documents\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.exe
+C:\Users\Administrateur\Documents\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.pdb
+C:\Users\Administrateur\Documents\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.exe
+C:\Users\Administrateur\Documents\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.pdb
